@@ -1,2 +1,3 @@
-# cdcsf
-FPGA-accelerated causal discovery with conditioning set filtering
+# FPGA-accelerated causal discovery with conditioning set filtering
+
+This is the code repository for the paper: "Accelerating Constraint-Based Causal Discovery by Shifting Speed Bottleneck" in the FPGA'22 conference. Now the code is partially available since some code we attempt to upload triggered the "DMCA takedown policy" from GitHub. I am investigating the problem and trying to use open-source implementations to replace the code that violates the policy. The repository will be updated with additional code and documentation soon. My apologies for any inconvience it has caused.
